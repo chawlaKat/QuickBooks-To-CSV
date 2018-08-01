@@ -1,5 +1,5 @@
 # QuickBooks-To-CSV Summary
-A C# console application created for TRCS using the QuickBooks SDK; queries the current company file and writes results to csv
+A C# console application created using the QuickBooks SDK; queries the current company file and writes results to csv
 
 # Value of Project
 While QuickBooks is excellent for creating and storing financial records, very little affordable support exists for extracting and processing those records. This program queries and reports any user-specified records and their attributes, writing each record type to a new csv file. 

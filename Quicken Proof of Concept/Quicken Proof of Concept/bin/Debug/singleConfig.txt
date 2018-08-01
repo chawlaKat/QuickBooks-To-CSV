@@ -1,0 +1,4 @@
+{
+"call": "Customer",
+"attributes": ["Name", "Phone", "Email"]
+}

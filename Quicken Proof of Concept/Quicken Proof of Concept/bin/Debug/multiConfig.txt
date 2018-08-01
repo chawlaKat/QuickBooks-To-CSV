@@ -1,0 +1,11 @@
+Number of queries 2
+
+Object to query Customer
+Number of attributes 3
+ListID
+Name
+Phone
+
+Object to query SalesOrder
+Number of attributes 1
+TxnID

@@ -1,0 +1,17 @@
+C:\Users\kchaw\Documents\Visual Studio 2017\Projects\Quicken Proof of Concept\Quicken Proof of Concept\bin\Debug\Quicken Proof of Concept.exe.config
+C:\Users\kchaw\Documents\Visual Studio 2017\Projects\Quicken Proof of Concept\Quicken Proof of Concept\bin\Debug\Quicken Proof of Concept.exe
+C:\Users\kchaw\Documents\Visual Studio 2017\Projects\Quicken Proof of Concept\Quicken Proof of Concept\bin\Debug\Quicken Proof of Concept.pdb
+C:\Users\kchaw\Documents\Visual Studio 2017\Projects\Quicken Proof of Concept\Quicken Proof of Concept\obj\Debug\Quicken Proof of Concept.csprojAssemblyReference.cache
+C:\Users\kchaw\Documents\Visual Studio 2017\Projects\Quicken Proof of Concept\Quicken Proof of Concept\obj\Debug\Quicken Proof of Concept.csproj.CoreCompileInputs.cache
+C:\Users\kchaw\Documents\Visual Studio 2017\Projects\Quicken Proof of Concept\Quicken Proof of Concept\obj\Debug\Quicken Proof of Concept.exe
+C:\Users\kchaw\Documents\Visual Studio 2017\Projects\Quicken Proof of Concept\Quicken Proof of Concept\obj\Debug\Quicken Proof of Concept.pdb
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\obj\Debug\Quicken Proof of Concept.csproj.CoreCompileInputs.cache
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\bin\Debug\Quicken Proof of Concept.exe.config
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\bin\Debug\Quicken Proof of Concept.exe
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\bin\Debug\Quicken Proof of Concept.pdb
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\bin\Debug\CsvHelper.dll
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\bin\Debug\CsvHelper.xml
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\obj\Debug\Quicken Proof of Concept.csprojAssemblyReference.cache
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\obj\Debug\Quicken Proof of Concept.csproj.CopyComplete
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\obj\Debug\Quicken Proof of Concept.exe
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\obj\Debug\Quicken Proof of Concept.pdb

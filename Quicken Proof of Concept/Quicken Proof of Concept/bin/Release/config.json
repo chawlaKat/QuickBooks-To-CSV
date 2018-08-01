@@ -1,0 +1,22 @@
+{
+	"listOfQueries":
+	[
+			{
+				"queryObject": "Customer",
+				"attributes": [ "ListID", "Name" ]
+			},
+			{
+				"queryObject": "Customer",
+				"attributes": [ "Phone" ]
+			},
+			{
+
+							"queryObject": "Customer",
+							"attributes": [ "FullName" ]
+			},
+				{
+					"queryObject": "SalesOrder",
+					"attributes": [ "TxnID" ]
+				}
+	]
+}

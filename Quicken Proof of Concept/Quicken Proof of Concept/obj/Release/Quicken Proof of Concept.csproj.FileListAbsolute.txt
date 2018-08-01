@@ -1,0 +1,9 @@
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\bin\Release\Quicken Proof of Concept.exe.config
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\bin\Release\Quicken Proof of Concept.exe
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\bin\Release\Quicken Proof of Concept.pdb
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\bin\Release\CsvHelper.dll
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\bin\Release\CsvHelper.xml
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\obj\Release\Quicken Proof of Concept.csproj.CoreCompileInputs.cache
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\obj\Release\Quicken Proof of Concept.csproj.CopyComplete
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\obj\Release\Quicken Proof of Concept.exe
+C:\Users\kchaw\Source\Repos\attribution\Kathy's Quickbooks Sandbox\Quicken Proof of Concept\Quicken Proof of Concept\obj\Release\Quicken Proof of Concept.pdb

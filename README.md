@@ -2,7 +2,7 @@
 A C# console application created using the QuickBooks SDK; queries the current company file and writes results to csv
 
 # Value of Project
-While QuickBooks is excellent for creating and storing financial records, very little affordable support exists for extracting and processing those records. This program queries and reports any user-specified records and their attributes, writing each record type to a new csv file. 
+QuickBooks provides excellent functionality for creating and storing financial records. This program queries QB records based on a configuration file and outputs the information to a new csv's file. 
 
 # Dependencies
 This program was created using C#, the QuickBooks Desktop SDK (QBSDK) from Intuit Developer, the CsvHelper package from Josh Close on GitHub, and the System.Web.Extensions library contained in .NET Framework. 
